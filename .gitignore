@@ -1,0 +1,17 @@
+
+studyflow_data.json
+
+# Virtual environment
+.venv/
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Secrets
+.env
+.streamlit/secrets.toml
+
+# VS Code settings
+.vscode/
