@@ -13,3 +13,11 @@ A simple daily planner built with Python and Streamlit.
 ## Run locally
 pip install streamlit
 streamlit run studyflow.py
+
+## 🚀 Live Demo
+
+Try **My Daily Planner** here:
+
+🔗 [Launch My Daily Planner](https://my-daily-planner-flow.streamlit.app)
+
+A simple, interactive planner designed to help students and working professionals organize their daily schedules, track study sessions, and monitor their progress.
