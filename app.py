@@ -6,8 +6,10 @@ from pathlib import Path
 import streamlit as st
 
 # ---------- PAGE CONFIG (must be the first Streamlit call) ----------
+
+# ---------- PAGE CONFIG ----------
 st.set_page_config(
-    page_title="StudyFlow",
+    page_title="My Daily Planner",
     page_icon="📚",
     layout="wide",
     initial_sidebar_state="expanded",
