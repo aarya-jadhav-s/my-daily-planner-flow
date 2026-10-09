@@ -163,7 +163,7 @@ day["items"] = items
 
 # ---------- SIDEBAR ----------
 with st.sidebar:
-    st.markdown("# 📚 StudyFlow")
+    st.markdown("# 📚 My Daily Planner")
     st.caption("YOUR PERSONAL PRODUCTIVITY SPACE")
     st.divider()
 
