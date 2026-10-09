@@ -1,4 +1,4 @@
-# 📚 StudyFlow
+# 📚 My Daily Planner Flow
 
 A simple daily planner built with Python and Streamlit.
 
